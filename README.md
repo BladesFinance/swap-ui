@@ -6,7 +6,7 @@
 A reusable React component for swapping on the Serum DEX. The Solana program can be
 found [here](https://github.com/project-serum/swap).
 
-## Usage
+## Usage Case
 
 #### Install
 
